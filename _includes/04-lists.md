@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+<h2>My favorite things</h2>
+
+* Hocus Pocus
+  * Binx
+  * Billy
+  * Mary
+ * Hulk
+    * Smash
+  
